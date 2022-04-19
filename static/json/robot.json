@@ -1,0 +1,17 @@
+{
+  "guess":{
+      "total": 2,
+      "rows": [
+        {
+           "questionId": "8",            "questionName": "红码",            "questionContent": "红码隔离",            "weight": "1",            "heat": null,            "createTime": "2022-04-30T00:00:00.000+08:00",            "updateTime": null
+        },
+        {
+           "questionId": "9",            "questionName": "黄码怎么办",            "questionContent": "黄码隔离",            "weight": "1",            "heat": null,            "createTime": "2022-04-30T00:00:00.000+08:00",            "updateTime": null
+        }
+      ],
+      "code": 200,      "msg": "查询成功"
+  },
+  "answer":{
+    "msg": "操作成功",    "code": 200,    "data": {        "questionId": "9",        "questionName": "黄码怎么办",        "questionContent": "黄码隔离",        "weight": "1",        "heat": null,        "createTime": "2022-04-30T00:00:00.000+08:00",        "updateTime": null    }
+  }
+}
